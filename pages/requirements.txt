@@ -1,0 +1,7 @@
+streamlit
+pillow
+pandas
+pandasai
+openai
+pyodbc
+matplotlib
