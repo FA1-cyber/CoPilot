@@ -1,10 +1,7 @@
 import streamlit as st
 from PIL import Image
-from pandasai.llm.openai import OpenAI
-from pandasai import Agent
 import pandas as pd
 import pyodbc
-from pandasai.responses.streamlit_response import StreamlitResponse
 from pathlib import Path
 import matplotlib as plt
 
