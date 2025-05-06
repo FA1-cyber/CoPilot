@@ -3,5 +3,5 @@ pillow
 pandas
 pandasai
 openai
-pyodbc
+sqlalchemy-pytds
 matplotlib
